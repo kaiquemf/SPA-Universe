@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "spa-universe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {    "lite-server": "^2.3.0"  },
+  "scripts": {"start": "lite-server"},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
